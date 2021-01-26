@@ -1,0 +1,16 @@
+Class: junior Primary
+   Kid: Holley, William Stephen
+   Kid: Jensen, Tucker Charles
+   Kid: Loper, Charlie
+   Kid: Nelson, Lukas
+   Kid: Peterson, Crew Bruce
+   Kid: Ashton, Shawn
+   Kid: Anderson, Brittany
+   Assignments: openingPrayer, talk
+
+Class: SENIORPrimary
+   Room: 257
+   Kid las
+   Kid: kenna las
+   Kid: skylie las
+   Assignments: talk2, closingPrayer

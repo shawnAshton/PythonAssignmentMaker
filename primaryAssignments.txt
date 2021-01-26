@@ -1,0 +1,302 @@
+junior -> 05-Jan-2020
+	Holley, William - openingPrayer
+	Jensen, Tucker - talk
+junior -> 12-Jan-2020
+	Loper, Charlie - openingPrayer
+	Nelson, Lukas - talk
+junior -> 19-Jan-2020
+	Peterson, Crew - openingPrayer
+	Ashton, Shawn - talk
+junior -> 26-Jan-2020
+	Anderson, Brittany - openingPrayer
+	Holley, William - talk
+junior -> 02-Feb-2020
+	Jensen, Tucker - openingPrayer
+	Loper, Charlie - talk
+junior -> 09-Feb-2020
+	Nelson, Lukas - openingPrayer
+	Peterson, Crew - talk
+junior -> 16-Feb-2020
+	Ashton, Shawn - openingPrayer
+	Anderson, Brittany - talk
+junior -> 23-Feb-2020
+	Loper, Charlie - openingPrayer
+	Ashton, Shawn - talk
+junior -> 01-Mar-2020
+	Anderson, Brittany - openingPrayer
+	Holley, William - talk
+junior -> 08-Mar-2020
+	Jensen, Tucker - openingPrayer
+	Loper, Charlie - talk
+junior -> 15-Mar-2020
+	Nelson, Lukas - openingPrayer
+	Peterson, Crew - talk
+junior -> 22-Mar-2020
+	Ashton, Shawn - openingPrayer
+	Anderson, Brittany - talk
+junior -> 29-Mar-2020
+	Holley, William - openingPrayer
+	Jensen, Tucker - talk
+junior -> 12-Apr-2020
+	Peterson, Crew - openingPrayer
+	Holley, William - talk
+junior -> 19-Apr-2020
+	Jensen, Tucker - openingPrayer
+	Loper, Charlie - talk
+junior -> 26-Apr-2020
+	Nelson, Lukas - openingPrayer
+	Peterson, Crew - talk
+junior -> 03-May-2020
+	Ashton, Shawn - openingPrayer
+	Anderson, Brittany - talk
+junior -> 10-May-2020
+	Holley, William - openingPrayer
+	Jensen, Tucker - talk
+junior -> 17-May-2020
+	Loper, Charlie - openingPrayer
+	Nelson, Lukas - talk
+junior -> 24-May-2020
+	Anderson, Brittany - openingPrayer
+	Loper, Charlie - talk
+junior -> 31-May-2020
+	Nelson, Lukas - openingPrayer
+	Peterson, Crew - talk
+junior -> 07-Jun-2020
+	Ashton, Shawn - openingPrayer
+	Anderson, Brittany - talk
+junior -> 14-Jun-2020
+	Holley, William - openingPrayer
+	Jensen, Tucker - talk
+junior -> 21-Jun-2020
+	Loper, Charlie - openingPrayer
+	Nelson, Lukas - talk
+junior -> 28-Jun-2020
+	Peterson, Crew - openingPrayer
+	Ashton, Shawn - talk
+junior -> 05-Jul-2020
+	Jensen, Tucker - openingPrayer
+	Peterson, Crew - talk
+junior -> 12-Jul-2020
+	Ashton, Shawn - openingPrayer
+	Anderson, Brittany - talk
+junior -> 19-Jul-2020
+	Holley, William - openingPrayer
+	Jensen, Tucker - talk
+junior -> 26-Jul-2020
+	Loper, Charlie - openingPrayer
+	Nelson, Lukas - talk
+junior -> 02-Aug-2020
+	Peterson, Crew - openingPrayer
+	Ashton, Shawn - talk
+junior -> 09-Aug-2020
+	Anderson, Brittany - openingPrayer
+	Holley, William - talk
+junior -> 16-Aug-2020
+	Nelson, Lukas - openingPrayer
+	Anderson, Brittany - talk
+junior -> 23-Aug-2020
+	Holley, William - openingPrayer
+	Jensen, Tucker - talk
+junior -> 30-Aug-2020
+	Loper, Charlie - openingPrayer
+	Nelson, Lukas - talk
+junior -> 06-Sep-2020
+	Peterson, Crew - openingPrayer
+	Ashton, Shawn - talk
+junior -> 13-Sep-2020
+	Anderson, Brittany - openingPrayer
+	Holley, William - talk
+junior -> 20-Sep-2020
+	Jensen, Tucker - openingPrayer
+	Loper, Charlie - talk
+junior -> 27-Sep-2020
+	Ashton, Shawn - openingPrayer
+	Jensen, Tucker - talk
+junior -> 11-Oct-2020
+	Loper, Charlie - openingPrayer
+	Nelson, Lukas - talk
+junior -> 18-Oct-2020
+	Peterson, Crew - openingPrayer
+	Ashton, Shawn - talk
+junior -> 25-Oct-2020
+	Anderson, Brittany - openingPrayer
+	Holley, William - talk
+junior -> 01-Nov-2020
+	Jensen, Tucker - openingPrayer
+	Loper, Charlie - talk
+junior -> 08-Nov-2020
+	Nelson, Lukas - openingPrayer
+	Peterson, Crew - talk
+junior -> 15-Nov-2020
+	Holley, William - openingPrayer
+	Nelson, Lukas - talk
+junior -> 22-Nov-2020
+	Peterson, Crew - openingPrayer
+	Ashton, Shawn - talk
+junior -> 29-Nov-2020
+	Anderson, Brittany - openingPrayer
+	Holley, William - talk
+junior -> 06-Dec-2020
+	Jensen, Tucker - openingPrayer
+	Loper, Charlie - talk
+junior -> 13-Dec-2020
+	Nelson, Lukas - openingPrayer
+	Peterson, Crew - talk
+junior -> 20-Dec-2020
+	Ashton, Shawn - openingPrayer
+	Anderson, Brittany - talk
+junior -> 27-Dec-2020
+	Loper, Charlie - openingPrayer
+	Ashton, Shawn - talk
+
+SENIORPrimary -> 05-Jan-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 12-Jan-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 19-Jan-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 26-Jan-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 02-Feb-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 09-Feb-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 16-Feb-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 23-Feb-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 01-Mar-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 08-Mar-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 15-Mar-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 22-Mar-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 29-Mar-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 12-Apr-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 19-Apr-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 26-Apr-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 03-May-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 10-May-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 17-May-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 24-May-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 31-May-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 07-Jun-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 14-Jun-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 21-Jun-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 28-Jun-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 05-Jul-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 12-Jul-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 19-Jul-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 26-Jul-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 02-Aug-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 09-Aug-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 16-Aug-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 23-Aug-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 30-Aug-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 06-Sep-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 13-Sep-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 20-Sep-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 27-Sep-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 11-Oct-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 18-Oct-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 25-Oct-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 01-Nov-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 08-Nov-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 15-Nov-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 22-Nov-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 29-Nov-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 06-Dec-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+SENIORPrimary -> 13-Dec-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 20-Dec-2020
+	kenna las - talk2
+	skylie las - closingPrayer
+SENIORPrimary -> 27-Dec-2020
+	skylie las - talk2
+	kenna las - closingPrayer
+
