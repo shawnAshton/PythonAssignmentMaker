@@ -21,7 +21,7 @@ class Class:
     self.kids = []
     self.assignments = []
 
-
+# determines if it will be general conference on the given date.
 def isConference(aDate):
    if (aDate.month == 4 or aDate.month == 10): # if april or october
       if aDate.weekday() == 6: # if it's a sunday
@@ -29,19 +29,20 @@ def isConference(aDate):
             return True
    return False
 
-def findIndexArray(num):
-   harray = []
-   if num % 2 == 0:
-      for i in range(0, num, 2):
-         harray.append(i + 1)
-         harray.append(i)
-   else:
-      for i in range(0, (num + 1), 2):
-         harray.append(i + 1)
-         harray.append(i)
-      del harray[num - 1]
-   return harray
+# def findIndexArray(num):
+#    harray = []
+#    if num % 2 == 0:
+#       for i in range(0, num, 2):
+#          harray.append(i + 1)
+#          harray.append(i)
+#    else:
+#       for i in range(0, (num + 1), 2):
+#          harray.append(i + 1)
+#          harray.append(i)
+#       del harray[num - 1]
+#    return harray
 
+# Returns all sundays in the given year
 def allsundays(year):
    d = date(year, 1, 1)                    # January 1st
    d += timedelta(days = 6 - d.weekday())  # First Sunday
@@ -50,6 +51,7 @@ def allsundays(year):
          yield d
       d += timedelta(days = 7)
 
+# Parses the file of classes, students, and assignments.
 def readFile(filename):
   listOfClasses = []
   file = open(filename, "r")
@@ -84,7 +86,7 @@ def readFile(filename):
     # print mylist
   return listOfClasses
 
-
+# Displays the class
 def displayClasses(myClasses):
   for c in myClasses:
     print("class name " + c.name)
@@ -100,6 +102,7 @@ def displayClasses(myClasses):
       print(job + " "),
     print("\n")
 
+# creates a text file
 def writeFile(myClasses, year, filename):
   f = open(filename, "w")
   for aClass in myClasses:
